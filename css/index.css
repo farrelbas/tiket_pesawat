@@ -1,0 +1,13 @@
+.bg-img {
+    background-image: url("../images/main.png");
+    min-height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.logo {
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
